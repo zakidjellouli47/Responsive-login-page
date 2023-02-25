@@ -1,16 +1,11 @@
-# responsive_login_page
+⭐️ ⭐️ Flutter responsive login page ⭐️ ⭐️
 
-A new Flutter project.
+This code was simple responsive login page that works for both web  pages mainly and also with tablets and mobiles
 
-## Getting Started
+My linkedin https://www.linkedin.com/in/abdessamed-zakaria-djellouli-05a27b222/
 
-This project is a starting point for a Flutter application.
+💻 Requirements Any Operating System (MacOS, Linux, Windows) Any IDE with Flutter SDK installed (Android Studio, VSCode , sublime etc), This code is also responsive
 
-A few resources to get you started if this is your first Flutter project:
+💻 Author Djellouli Abdessamed Zakaria
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
